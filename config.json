@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "92ed0c8c3f"
   },
   "options": {
     "autoRead": false,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapis",
-    "author": "https://zenzapis.xyz"
+    "packname": "rfndika",
+    "author": "rfndika"
   },
   "owner": [
-    "62812xxx"
+    "62816866266"
   ],
   "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "footer": "maintain by rfndika"
 }
